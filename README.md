@@ -1,5 +1,5 @@
 # EDC-flashlight
 Custom Flashlight
-UV LED
-2 brightness white LED
-RED LED - strobe and normal mode
+1. UV LED
+2. 2 brightness white LED
+3. RED LED - strobe and normal mode
